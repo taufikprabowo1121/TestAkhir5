@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\TestAkhir5\TestAkhir5\bin\Debug\TestAkhir5.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\TestAkhir5\TestAkhir5\bin\Debug\TestAkhir5.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\TestAkhir5\TestAkhir5\bin\Debug\TestAkhir5.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\TestAkhir5\TestAkhir5\obj\Debug\TestAkhir5.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\TestAkhir5\TestAkhir5\obj\Debug\TestAkhir5.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\TestAkhir5\TestAkhir5\obj\Debug\TestAkhir5.pdb
